@@ -7,4 +7,5 @@ Este programa es un fork modificado, por lo cual la logica  del mismo es propied
 
 #software en construccion
 
+Todavia esta lleno de bugs, así que tengan paciencia por favor.
 
