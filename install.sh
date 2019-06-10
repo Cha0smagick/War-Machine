@@ -46,6 +46,7 @@ opcion=
 until [ "$opcion" = "0" ]; do
      echo "WAR MACHINE V 1.0 "  
 	 echo "Author: Cha0smagick"  
+	 echo " twitch:https://www.twitch.tv/cha0smagick "
      echo -e ${GREEN}""
      echo "War machine Toolkit"
      echo ""
