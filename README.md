@@ -5,7 +5,7 @@ War machine es un prototipo de autoinstalador para sistemas basados en Debian, p
 
 Este programa es un fork modificado, por lo cual la logica  del mismo es propiedad de : https://github.com/abatsakidis/
 
-#software en construccion
+# software en construccion
 
 Todavia esta lleno de bugs, así que tengan paciencia por favor.
 
