@@ -1,11 +1,26 @@
-# war-machine
-War-machine provides autoinstalling pentesting tools for Debian linux systems
+# War Machine - Toolkit de Pentesting
 
-War machine es un prototipo de autoinstalador para sistemas basados en Debian, para instalar  y actualizar las herramientas mas utiles a la hora de hacer pentesting. No solo eso, busca poder actualizar tambien los repositorios de exploits y vulnerabilidades, además de instalar nessus en un pequeño script.
+![War Machine]([https://images.bigbadtoystore.com/images/p/full/2023/08/6644a6cc-4f2f-4a67-a84a-f45753fb5650.jpg](https://images.bigbadtoystore.com/images/p/full/2023/08/6644a6cc-4f2f-4a67-a84a-f45753fb5650.jpg))
 
-Este programa es un fork modificado, por lo cual la logica  del mismo es propiedad de : https://github.com/abatsakidis/
+## Descripción
+¡Bienvenidos a la próxima generación de herramientas de pentesting! Presentamos **War Machine**, un conjunto robusto y versátil de herramientas diseñado para empoderar a los profesionales de la ciberseguridad. Inspirado en el poder y la tecnología avanzada del famoso traje de Iron Man, War Machine transforma su enfoque de la seguridad informática, llevando su capacidad de evaluación de seguridad al siguiente nivel.
 
-# software en construccion
+## Características
+- **Instalación Sencilla y Rápida**: Con solo un par de comandos, configure su entorno de pruebas y comience a explorar. War Machine simplifica el proceso de instalación de herramientas esenciales, permitiéndole concentrarse en lo que realmente importa: la seguridad.
+  
+- **Módulos Especializados**: Desde herramientas de análisis estático hasta soluciones avanzadas de manipulación de código, War Machine incluye un conjunto diverso de módulos que se adaptan a sus necesidades específicas de pentesting. ¡Elija lo que desee, individualmente o como un grupo!
 
-Todavia esta lleno de bugs, así que tengan paciencia por favor.
+- **Actualizaciones Automáticas**: Manténgase al día con las últimas vulnerabilidades y herramientas con nuestro sistema de actualización integrado. War Machine asegura que siempre esté un paso adelante, listo para combatir las amenazas emergentes.
+
+- **Interfaz Intuitiva**: Con un menú interactivo que le permite elegir fácilmente las herramientas que desea instalar, War Machine proporciona una experiencia de usuario fluida y amigable. Cada opción está diseñada para que la selección y la instalación sean simples.
+
+## Por qué elegir War Machine
+En un mundo donde las amenazas cibernéticas evolucionan rápidamente, cada segundo cuenta. **War Machine** no es solo un conjunto de herramientas; es su aliado en la batalla por la seguridad cibernética. Al igual que el traje de War Machine en el universo Marvel, este toolkit está diseñado para proporcionar poder, versatilidad y resistencia, asegurando que esté preparado para cualquier desafío que se presente.
+
+### Ejemplo de Uso
+1. **Clona el Repositorio**:
+   ```bash
+   git clone https://github.com/tu_usuario/war-machine.git
+   cd war-machine
+
 
