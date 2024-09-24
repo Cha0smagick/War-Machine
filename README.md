@@ -1,6 +1,6 @@
 # War Machine - Toolkit de Pentesting
 
-![War Machine]([https://images.bigbadtoystore.com/images/p/full/2023/08/6644a6cc-4f2f-4a67-a84a-f45753fb5650.jpg](https://images.bigbadtoystore.com/images/p/full/2023/08/6644a6cc-4f2f-4a67-a84a-f45753fb5650.jpg))
+![War Machine](https://images.bigbadtoystore.com/images/p/full/2023/08/6644a6cc-4f2f-4a67-a84a-f45753fb5650.jpg)
 
 ## Descripción
 ¡Bienvenidos a la próxima generación de herramientas de pentesting! Presentamos **War Machine**, un conjunto robusto y versátil de herramientas diseñado para empoderar a los profesionales de la ciberseguridad. Inspirado en el poder y la tecnología avanzada del famoso traje de Iron Man, War Machine transforma su enfoque de la seguridad informática, llevando su capacidad de evaluación de seguridad al siguiente nivel.
